@@ -1,0 +1,11 @@
+[Unit]
+Description=DevOpsFetch Monitoring Service
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/devopsfetch --monitor
+Restart=Always
+User=root
+
+[Install]
+WantedBy=multi-user.target

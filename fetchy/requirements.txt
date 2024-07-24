@@ -1,0 +1,4 @@
+psutil
+docker
+prettytable
+nginx-parser
