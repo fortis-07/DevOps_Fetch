@@ -45,7 +45,7 @@ To install and set up DevOpsFetch, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone  [https://github.com/fortis-07/DevOps_Fetch]
-   cd devopsfetch
+   cd fetchy
    ```
 2. **Install Dependencies**
   ```bash sudo apt-get update
