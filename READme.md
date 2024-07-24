@@ -53,6 +53,11 @@ sudo apt-get install -y python3 python3-pip
 pip3 install -r requirements.txt
 ```
 3. **Install the Script**
+   
+```bash
+ sudo ./install.sh
+```
+
 ```bash   sudo cp devopsfetch.py /usr/local/bin/devopsfetch
 sudo chmod +x /usr/local/bin/devopsfetch
 ```
