@@ -1,6 +1,6 @@
 # DevOpsFetch
 
-**DevOpsFetch** is a tool designed for DevOps professionals to collect and display essential system information. This tool supports retrieving details about active ports, Docker containers, Nginx configurations, user logins, and system activities within a specified time range. Additionally, it offers continuous monitoring and logging capabilities via a systemd service.
+**DevOpsFetch** is a tool designed with Python exclusively for DevOps professionals to collect and display essential system information. This tool supports retrieving details about active ports, Docker containers, Nginx configurations, user logins, and system activities within a specified time range. Additionally, it offers continuous monitoring and logging capabilities via a systemd service.
 
 ## Objective
 
